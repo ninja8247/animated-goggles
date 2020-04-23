@@ -4,3 +4,7 @@ vi
 vim
 neovim
 dhcpcd
+man-db
+man-pages
+textinfo
+ntfs-3g
