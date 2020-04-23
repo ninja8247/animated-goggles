@@ -1,0 +1,6 @@
+sudo
+nano
+vi
+vim
+neovim
+dhcpcd
