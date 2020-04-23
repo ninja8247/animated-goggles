@@ -7,3 +7,4 @@ dhcpcd
 man-db
 man-pages
 ntfs-3g
+base-devel
