@@ -1,8 +1,5 @@
 sudo
 nano
-vi
-vim
-neovim
 dhcpcd
 man-db
 man-pages
