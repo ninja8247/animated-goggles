@@ -1,0 +1,80 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 5
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 01 The Natural Heart.flac
+1:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 02 The Path.flac
+2:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 03 Get The Gang Back.flac
+3:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 04 The Man Who Rocked The World.flac
+4:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 05 Skellige Winds.flac
+5:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 06 Hell To Pay.flac
+6:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 07 Pawns Of War.flac
+7:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 08 Fires Fade.flac
+8:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 09 Clockworks.flac
+9:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 10 Some Things Never Change.flac
+10:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 11 Edge Of The World.flac
+11:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 12 The Lucky Ones.flac
+12:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 13 Mother Of Flame.flac
+13:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 14 Jet Fuel Heart.flac
+14:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 15 Forever Flame.flac
+15:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 16 Kana.flac
+16:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 17 Numbers.flac
+17:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 18 Ditto.flac
+18:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 19 Here We Go Again.flac
+19:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 20 Sovngarde Song 2016.flac
+20:Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 21 Fires Fade (Male Version).flac
+21:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 01 The Great Unknown.flac
+22:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 02 Keepers (feat. Marcin Przybyłowicz).flac
+23:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 03 The Moment (feat. Karliene).flac
+24:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 04 Upside Down.flac
+25:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 05 When The Wolves Cry Out.flac
+26:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 06 Into The Wild.flac
+27:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 07 Force Of Nature (feat. Sarah Murray).flac
+28:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 08 Replica.flac
+29:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 09 Hallowed Land.flac
+30:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 10 No One (feat. Karliene).flac
+31:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 11 Welcome To The Family.flac
+32:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 12 Break Of Dawn.flac
+33:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 13 We Are War.flac
+34:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 14 Revolution Spark.flac
+35:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 15 Another Round Of Gwent.flac
+36:Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 16 Mother Earth 2017.flac
+37:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 01 My Odyssey.flac
+38:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 02 When I Swing By.flac
+39:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 03 Ode To Fury.flac
+40:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 04 Ascension.flac
+41:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 05 Setting Sun.flac
+42:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 06 Deep Blue.flac
+43:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 07 The Death Of Rock 'N' Roll.flac
+44:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 08 Starting Over.flac
+45:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 09 Savior's Seed.flac
+46:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 10 Machine Hearts.flac
+47:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 11 A Father's Arms.flac
+48:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 12 Embers Rise.flac
+49:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 13 Dream Again.flac
+50:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 14 Giants Fall.flac
+51:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 15 Place In Nature.flac
+52:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 16 London's Bloody Cry.flac
+53:Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 17 Redemption Blues 2018.flac
+54:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 01 City Of Dreams.flac
+55:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 02 Neon Red.flac
+56:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 03 Rebirth.flac
+57:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 04 Only Us (ft. Karliene).flac
+58:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 05 Show Your Style.flac
+59:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 06 A Thousand Eyes (ft. Aviators).flac
+60:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 07 Payday.flac
+61:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 08 Never Alone.flac
+62:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 09 Back To The Start.flac
+63:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 10 Open Air.flac
+64:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 11 Mojave Song.flac
+65:Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 12 Neon Red (Instrumental Remix).flac
+playlist_end

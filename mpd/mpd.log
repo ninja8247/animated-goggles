@@ -1,0 +1,228 @@
+Jul 18 14:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 14:16 : exception: Failed to open '/home/mike/.mpd/mpdstate': No such file or directory
+Jul 18 14:16 : config: option 'device' on line 13 was not recognized
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 03 Rebirth.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 06 A Thousand Eyes (ft. Aviators).flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 04 Only Us (ft. Karliene).flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 11 Mojave Song.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 09 Back To The Start.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 12 Neon Red (Instrumental Remix).flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 10 Open Air.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 01 City Of Dreams.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 05 Show Your Style.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 08 Never Alone.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 02 Neon Red.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 10/Miracle Of Sound - Level 10 - 07 Payday.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 12 Embers Rise.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 03 Ode To Fury.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 02 When I Swing By.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 13 Dream Again.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 14 Giants Fall.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 09 Savior's Seed.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 15 Place In Nature.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 07 The Death Of Rock 'N' Roll.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 01 My Odyssey.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 04 Ascension.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 06 Deep Blue.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 17 Redemption Blues 2018.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 05 Setting Sun.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 16 London's Bloody Cry.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 11 A Father's Arms.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 10 Machine Hearts.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 9/Miracle Of Sound - Level 9 - 08 Starting Over.flac
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/08 Live for the Fight.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/02 That Was Then This Is Now.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/04 Grind to Metal.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/09 Slaughterhouse.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/03 Hellhammer.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/05 Up Against the World.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/11 Death or Glory.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/06 Going Down.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/10 The Holy Devil.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/07 Relentless Force.m4a
+Jul 18 14:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:16 : update: added Hellhammer/01 Annihilate.m4a
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 10 In The Shadows.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 04 Warriors of Time.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 08 With Bleeding Hands I Stand.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 06 Uncover The Earth.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 02 Wrath of The Night.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 03 Beneath The Sky.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 05 Possessive Eyes.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 01 Dark Times.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 09 The Land of Vandor.flac
+Jul 18 14:16 : update: added Vandor - In The Land of Vandor/Vandor - In The Land of Vandor - 07 Serving Their Needs.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 15 Forever Flame.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 19 Here We Go Again.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 05 Skellige Winds.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 14 Jet Fuel Heart.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 03 Get The Gang Back.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 18 Ditto.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 09 Clockworks.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 21 Fires Fade (Male Version).flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 08 Fires Fade.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 07 Pawns Of War.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 20 Sovngarde Song 2016.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 04 The Man Who Rocked The World.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 12 The Lucky Ones.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 10 Some Things Never Change.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 13 Mother Of Flame.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 17 Numbers.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 06 Hell To Pay.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 01 The Natural Heart.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 11 Edge Of The World.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 16 Kana.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 02 The Path.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 08 Across The Sea.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 02 To Infinity.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 07 Queen Of Blades.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 03 Kings.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 05 The Shieldmaiden.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 10 Netherstorm.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 09 Everwinter.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 04 I Am The Tyrant.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 01 Fail No More.flac
+Jul 18 14:16 : update: added Frozen Crown - The Fallen King/Frozen Crown - The Fallen King - 06 Chasing Lights.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 07 Force Of Nature (feat. Sarah Murray).flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 15 Another Round Of Gwent.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 04 Upside Down.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 08 Replica.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 11 Welcome To The Family.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 02 Keepers (feat. Marcin Przybyłowicz).flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 01 The Great Unknown.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 10 No One (feat. Karliene).flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 05 When The Wolves Cry Out.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 09 Hallowed Land.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 13 We Are War.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 03 The Moment (feat. Karliene).flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 12 Break Of Dawn.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 06 Into The Wild.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 14 Revolution Spark.flac
+Jul 18 14:16 : update: added Miracle Of Sound Level 8/Miracle Of Sound - Level 8 - 16 Mother Earth 2017.flac
+Jul 18 14:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 14:16 : exception: Failed to open '/home/mike/.mpd/mpdstate': No such file or directory
+Jul 18 14:16 : config: option 'device' on line 13 was not recognized
+Jul 18 14:16 : client: [0] opened from 127.0.0.1:38520
+Jul 18 14:16 : client: [0] closed
+Jul 18 14:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 14:18 : exception: Failed to open '/home/mike/.config/mpd/mpdstate': No such file or directory
+Jul 18 14:18 : config: option 'device' on line 13 was not recognized
+Jul 18 14:18 : client: [0] opened from 127.0.0.1:38530
+Jul 18 14:18 : client: [0] closed
+Jul 18 14:19 : client: [1] opened from 127.0.0.1:38534
+Jul 18 14:19 : client: [2] opened from 127.0.0.1:38538
+Jul 18 14:19 : exception: Unsupported URI scheme
+Jul 18 14:19 : exception: Failed to open '/home/mike/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jul 18 14:19 : exception: No such playlist
+Jul 18 14:22 : exception: Failed to open '/home/mike/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jul 18 14:22 : exception: No such playlist
+Jul 18 14:23 : client: [2] closed
+Jul 18 14:23 : client: [1] closed
+Jul 18 14:23 : client: [3] opened from 127.0.0.1:38576
+Jul 18 14:23 : client: [4] opened from 127.0.0.1:38580
+Jul 18 14:23 : exception: Unsupported URI scheme
+Jul 18 14:23 : exception: Failed to open '/home/mike/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jul 18 14:23 : exception: No such playlist
+Jul 18 14:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 18 14:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 14:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 14:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 18 14:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 18 14:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Jul 18 14:27 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Jul 18 14:27 : player: played "Hellhammer/04 Grind to Metal.m4a"
+Jul 18 14:27 : player: played "Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 06 Hell To Pay.flac"
+Jul 18 14:27 : client: [4] closed
+Jul 18 14:27 : client: [3] closed
+Jul 19 13:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 13:35 : config: option 'device' on line 13 was not recognized
+Jul 19 13:35 : client: [0] opened from 127.0.0.1:33062
+Jul 19 13:35 : client: [1] opened from 127.0.0.1:33066
+Jul 19 13:35 : exception: Failed to open '/home/mike/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jul 19 13:35 : exception: No such playlist
+Jul 19 13:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 13:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 13:35 : client: [1] closed
+Jul 19 13:35 : client: [0] closed
+Jul 19 13:35 : player: played "Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 06 Hell To Pay.flac"
+Jul 19 19:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 19:19 : config: option 'device' on line 13 was not recognized
+Jul 19 19:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 19:19 : client: [0] opened from 127.0.0.1:34446
+Jul 19 19:19 : client: [1] opened from 127.0.0.1:34450
+Jul 19 19:19 : exception: Unsupported URI scheme
+Jul 19 19:19 : exception: Failed to open '/home/mike/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jul 19 19:19 : exception: No such playlist
+Jul 19 19:19 : client: [1] closed
+Jul 19 19:19 : client: [0] closed
+Jul 19 19:20 : player: played "Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 06 Hell To Pay.flac"
+Jul 19 19:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 19:20 : config: option 'device' on line 13 was not recognized
+Jul 19 19:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 19:20 : client: [0] opened from 127.0.0.1:33804
+Jul 19 19:20 : client: [1] opened from 127.0.0.1:33808
+Jul 19 19:20 : exception: Unsupported URI scheme
+Jul 19 19:20 : exception: Failed to open '/home/mike/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jul 19 19:20 : exception: No such playlist
+Jul 19 19:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 19:21 : player: played "Miracle Of Sound Level 7/Miracle Of Sound - Level 7 - 06 Hell To Pay.flac"
+Jul 19 19:21 : client: [1] closed
+Jul 19 19:21 : client: [0] closed
+Jul 19 20:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 20:12 : config: option 'device' on line 13 was not recognized
+Jul 19 20:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 19 20:14 : config: option 'device' on line 13 was not recognized
+Jul 20 12:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 12:12 : config: option 'device' on line 13 was not recognized
+Jul 20 13:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 13:43 : config: option 'device' on line 13 was not recognized
+Jul 21 02:57 : client: [0] opened from 127.0.0.1:49542
+Jul 21 02:57 : client: [1] opened from 127.0.0.1:49546
+Jul 21 02:57 : exception: Unsupported URI scheme
+Jul 21 02:57 : exception: Failed to open '/home/mike/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Jul 21 02:57 : exception: No such playlist
+Jul 21 02:57 : client: [1] closed
+Jul 21 02:57 : client: [0] closed
+Jul 21 05:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 05:30 : config: option 'device' on line 13 was not recognized
+Jul 21 05:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 05:36 : config: option 'device' on line 13 was not recognized
+Jul 21 05:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 05:47 : config: option 'device' on line 13 was not recognized
+Jul 21 12:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 12:16 : config: option 'device' on line 13 was not recognized
+Jul 21 23:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 23:31 : config: option 'device' on line 13 was not recognized
+Jul 22 05:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 22 05:17 : config: option 'device' on line 13 was not recognized
+Jul 22 13:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 22 13:50 : config: option 'device' on line 13 was not recognized
+Jul 22 17:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 22 17:31 : config: option 'device' on line 13 was not recognized
+Jul 22 18:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 22 18:16 : config: option 'device' on line 13 was not recognized
+Jul 23 03:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 03:27 : config: option 'device' on line 13 was not recognized
+Jul 23 05:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 05:22 : config: option 'device' on line 13 was not recognized
+Jul 23 05:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 05:32 : config: option 'device' on line 13 was not recognized
+Jul 23 14:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 14:12 : config: option 'device' on line 13 was not recognized
+Jul 23 20:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 20:24 : config: option 'device' on line 13 was not recognized
+Jul 23 22:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 22:38 : config: option 'device' on line 13 was not recognized
