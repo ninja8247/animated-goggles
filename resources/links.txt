@@ -1,1 +1,2 @@
 https://devzone.channeladam.com/notebooks/linux/nvidia-power-usage/#how-to-configure-the-power-savings-modes
+https://www.jamescoyle.net/how-to/1818-access-a-qcow2-virtual-disk-image-from-the-host
