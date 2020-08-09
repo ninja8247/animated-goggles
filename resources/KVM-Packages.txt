@@ -1,0 +1,6 @@
+qemu
+libvirt
+ovmf
+virt-manager
+ebtables
+dnsmasq
