@@ -1,6 +1,6 @@
 qemu
 libvirt
-ovmf
+edk2-ovmf
 virt-manager
 ebtables
 dnsmasq
